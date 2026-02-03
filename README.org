@@ -1,9 +1,10 @@
 * clast
 
-Common Lisp Abstract Syntax Tree library for code analysis and transformation.
+Full-featured AST library for Common Lisp with environment support
 
-|---------+-----------------------------------------------|
-| source  | git:https://git.code.sf.net/p/clast/code      |
-| commit  | d72f026                                       |
-| systems | clast                                         |
-|---------+-----------------------------------------------|
+|---------+------------------------------------------------------|
+| source  | git:https://git.code.sf.net/p/clast/code            |
+| commit  | d72f026                                              |
+| systems | clast                                                |
+|---------+------------------------------------------------------|
+
