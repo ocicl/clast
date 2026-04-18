@@ -4,7 +4,7 @@ Full-featured AST library for Common Lisp with environment support
 
 |---------+------------------------------------------------------|
 | source  | git:https://git.code.sf.net/p/clast/code            |
-| commit  | d72f026                                              |
+| commit  | d182867                                              |
 | systems | clast                                                |
 |---------+------------------------------------------------------|
 
